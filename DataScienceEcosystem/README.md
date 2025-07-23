@@ -79,4 +79,5 @@ All screenshots are stored inside the `screenshot/` folder and represent each st
 ## 👩‍💻 Author
 **Clara Tan**
 
-Feel free to view the notebook [here](https://github.com/Claratxy/DataScienceEcosystem_notebook).
+Feel free to view the notebook [here](https://github.com/Claratxy/DataScienceAssignments/blob/81a00bb05125b7cdf1755405797382bd31b0f747/DataScienceEcosystem/DataScienceEcosystem.ipynb).
+
